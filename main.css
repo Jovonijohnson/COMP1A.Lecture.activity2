@@ -1,9 +1,11 @@
-*******/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Your Name */Jovoni**************************************************
+/* Primary stylesheet for the San Joaquin Valley Town Hall website Author: Your Name */
 * Description: Primary style sheet for valleytownhall.com
 * Author: Jovoni Johnson
 *********************************************************/
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
+
 body {
-background-color: #FACD8A; .content { background-color: blu; /* "blu" is not a valid color value. It should be "blue". */ }
+background-color: #FACD8A;
 }
 h1 {
 color: #363636;
